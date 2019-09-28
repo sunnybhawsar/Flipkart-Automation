@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="target/generated-sources/annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/syntaxpane-1.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/swing-layout-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/sikulixlibswin-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/sikulixlibslux-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/sikuli-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/qtaste-kernel-3.0.0.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/jython-standalone-2.7.0.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/jxgrabkey-1.0.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/jintellitype-1.3.7.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/jgoodies-forms-1.9.0.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/jgoodies-common-1.8.1.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/dx-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/commons-net-3.4.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/commons-configuration-1.10.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/commons-cli-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/sikuli jar/bridj-0.7.0.jar"/>
+	<classpathentry kind="src" output="target/test-classes" path="target/generated-test-sources/test-annotations">
+		<attributes>
+			<attribute name="ignore_optional_problems" value="true"/>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="m2e-apt" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/htmlunit-driver-2.30.0.jar"/>
+	<classpathentry kind="lib" path="/home/yuvi/Jar Files/htmlunit-cssparser-1.0.0.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

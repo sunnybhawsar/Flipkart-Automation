@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50724" started-at="2019-09-29T00:17:19 IST" finished-at="2019-09-29T00:18:10 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50724" started-at="2019-09-29T00:17:19 IST" finished-at="2019-09-29T00:18:10 IST">
+      <class name="com.wp.automation.Flipkart">
+        <test-method status="PASS" signature="openFlipkart()[pri:0, instance:com.wp.automation.Flipkart@3e77a1ed]" name="openFlipkart" is-config="true" duration-ms="11028" started-at="2019-09-29T00:17:19 IST" finished-at="2019-09-29T00:17:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFlipkart -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.wp.automation.Flipkart@3e77a1ed]" name="login" duration-ms="5953" started-at="2019-09-29T00:17:30 IST" finished-at="2019-09-29T00:17:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="searchItems(java.lang.String)[pri:2, instance:com.wp.automation.Flipkart@3e77a1ed]" name="searchItems" duration-ms="3785" started-at="2019-09-29T00:17:36 IST" finished-at="2019-09-29T00:17:40 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sunglasses]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchItems -->
+        <test-method status="PASS" signature="selectItem()[pri:3, instance:com.wp.automation.Flipkart@3e77a1ed]" name="selectItem" duration-ms="3343" started-at="2019-09-29T00:17:40 IST" finished-at="2019-09-29T00:17:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItem -->
+        <test-method status="PASS" signature="addToCart()[pri:4, instance:com.wp.automation.Flipkart@3e77a1ed]" name="addToCart" duration-ms="5603" started-at="2019-09-29T00:17:43 IST" finished-at="2019-09-29T00:17:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCart -->
+        <test-method status="PASS" signature="placeOrder()[pri:5, instance:com.wp.automation.Flipkart@3e77a1ed]" name="placeOrder" duration-ms="8124" started-at="2019-09-29T00:17:49 IST" finished-at="2019-09-29T00:17:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method status="PASS" signature="orderSummary()[pri:6, instance:com.wp.automation.Flipkart@3e77a1ed]" name="orderSummary" duration-ms="7286" started-at="2019-09-29T00:17:57 IST" finished-at="2019-09-29T00:18:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- orderSummary -->
+        <test-method status="PASS" signature="selectPaymentMode()[pri:7, instance:com.wp.automation.Flipkart@3e77a1ed]" name="selectPaymentMode" duration-ms="3230" started-at="2019-09-29T00:18:04 IST" finished-at="2019-09-29T00:18:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectPaymentMode -->
+        <test-method status="PASS" signature="screenShot()[pri:0, instance:com.wp.automation.Flipkart@3e77a1ed]" name="screenShot" is-config="true" duration-ms="2229" started-at="2019-09-29T00:18:08 IST" finished-at="2019-09-29T00:18:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShot -->
+      </class> <!-- com.wp.automation.Flipkart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
